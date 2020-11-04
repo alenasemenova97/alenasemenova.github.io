@@ -1,0 +1,23 @@
+
+table
+{
+    border-collapse: collapse;
+}
+
+td
+{
+    border: solid 1px black;
+    height: 100px;
+    width: 100px;
+}
+
+
+.flashed
+{
+    background-color: rgb(217, 197, 236);
+}
+
+.select
+{
+    background-color: rgb(245, 77, 48);
+}
